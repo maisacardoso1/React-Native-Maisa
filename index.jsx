@@ -5,7 +5,7 @@ export default function Home(){
     return(
         <View style={estilos.tela}>
             
-        < View style={estilos.form}>
+        < View style={estilos.fora}>
             
         <TextInput
             style={estilos.input_text}
