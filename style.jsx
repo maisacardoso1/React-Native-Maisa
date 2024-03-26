@@ -4,13 +4,13 @@ export const estilos = StyleSheet.create({
     
     tela: {
         flex: 1,
-        backgroundColor: '#F5A9E1',
+        backgroundColor: '#D7DF01',
         padding: 22,
     },
    
     form: {
         marginBottom: 5,
-        backgroundColor: '#F78181',
+        backgroundColor: '#088A29',
         flexDirection: 'row',
         width: '100%',
         padding: 73,
