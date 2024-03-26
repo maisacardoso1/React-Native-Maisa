@@ -8,7 +8,7 @@ export const estilos = StyleSheet.create({
         padding: 22,
     },
    
-    form: {
+    fora: {
         marginBottom: 5,
         backgroundColor: '#088A29',
         flexDirection: 'row',
